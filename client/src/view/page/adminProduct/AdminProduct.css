@@ -1,0 +1,11 @@
+#table-hide
+{
+    overflow-y: scroll;
+    height: 450px;
+
+}
+.text-overflow {
+    white-space: nowrap;
+    overflow-x: auto;
+    text-overflow: ellipsis;
+}
